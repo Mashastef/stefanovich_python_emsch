@@ -1,0 +1,6 @@
+n=int(input())
+v=int(input())
+t=int(input())
+s=v*t%n
+
+print(s)
