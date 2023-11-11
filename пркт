@@ -21,4 +21,6 @@ while True:
     else:
         m+=1   
 
+№5
+n=int(input())
 
